@@ -3,5 +3,5 @@ A stateless chat graph using LangGraph with console input/output. Supports a too
 The bot will start in console mode:
 
 - Type any message and press Enter.
-- Ask **"What time is it?"**, and the bot will call `get_current_time` and print the UTC time.
+- Ask "What time is it?", and the bot will call `get_current_time` and print the UTC time.
 - Ask anything else, and the bot will respond via the LLM.
